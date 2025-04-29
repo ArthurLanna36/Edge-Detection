@@ -1,0 +1,9 @@
+# Ambiente virtual
+.venv/
+
+# Byte-code Python
+__pycache__/
+*.py[cod]
+
+# Saídas geradas
+data/output*.jpg
