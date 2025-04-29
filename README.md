@@ -48,11 +48,3 @@ python src/sobel.py data/input.jpg data/output.jpg [limiar]
 - **`print_usage()`**: exibe instruções de uso quando os parâmetros estão incorretos.
 - **Bloco principal**: analisa argumentos de linha de comando e invoca `sobel_edge_detection()`.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
